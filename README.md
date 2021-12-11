@@ -6,9 +6,9 @@ Module :
 2. EDA_test.ipynb --> EDA ,Feature selection , Model comparison / best Model selection
 
 
-Step before moduel 1:
+Steps to follow :
 1. clone the repo
 2. pip install -r requirements.txt
 3. for training : python main_run.py -check "train" -data_path "<csv file path>"
-  or
-  for testing  : python main_run.py -model_path "model" -check "test" -data_path "<csv file path>"
+   or
+   for testing  : python main_run.py -model_path "model" -check "test" -data_path "<csv file path>"
