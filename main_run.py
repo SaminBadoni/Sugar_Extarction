@@ -36,7 +36,7 @@ def load_data(filepath):
     orginal_efficiency  =np.reshape(orginal_efficiency,(orginal_efficiency.shape[0],1))
     
     # drop is drop based on analysis - check EDA file
-    column_name_to_drop = ['Unnamed: 0','Id', 'Size(L)','OG','Color','Efficiency','SugarScale','BrewMethod','Style']
+    column_name_to_drop = ['Unnamed: 0','Id', 'Size(L)','OG','Color','BoilGravity','Efficiency','SugarScale','BrewMethod','Style']
     
     data = data.drop(column_name_to_drop, axis = 1)
     return data , orginal_efficiency
