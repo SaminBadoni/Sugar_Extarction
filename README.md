@@ -2,7 +2,7 @@
 # Predicted Efficiency: Beer mash extraction efficiency
 
 Module :
-1. main_run.py -- > Train/Test using the SVR model
+1. main_run.py -- > Train/Test using the SVR model (best model for current usecase)
 2. eda_testsheet.ipynb --> EDA ,Feature selection , Model comparison / best Model selection
 
 
