@@ -3,7 +3,7 @@
 
 Module :
 1. main_run.py -- > Train/Test using the SVR model
-2. EDA_test.ipynb --> EDA ,Feature selection , Model comparison / best Model selection
+2. eda_testsheet.ipynb --> EDA ,Feature selection , Model comparison / best Model selection
 
 
 Steps to follow :
